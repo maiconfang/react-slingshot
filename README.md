@@ -1,14 +1,26 @@
 # Cenários de testes executados
 
-Link para download
+Link para download: https://github.com/maiconfang/react-slingshot.git
 
 ## Notas importantes
 
+Execução de cenários de testes de avaliação
+
 ## Dependências
 
-## Iniciando projeto
+* NodeJS
+* Yarn
+* Cypress
 
-## Instruções de execução dos testes
+## Iniciando projeto e executando teste
+
+* Abrir Visual Studio Code ou outro IDE da sua preferência
+* No terminal do projeto executar 'npm update'
+* Iniciar o projeto com 'npm start'
+* Executar 'yarn run cypress open' em outro terminal
+* Na tela que surge clicar em 'main.spec.js'
+* Neste momento os testes serão executados
+
 
 ## Cenários de testes executados
 
